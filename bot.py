@@ -6,6 +6,7 @@ import database as db
 
 bot = telebot.TeleBot(config.telegram_token)
 
+
 @bot.message_handler(commands=['start'])
 def start_bot(message):
     if db.user_exist(message.chat.id):
