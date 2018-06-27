@@ -1,2 +1,0 @@
-telegram_token = '615703864:AAHR5mW3UEw-mkj5vA6ZLJCEKAM2keRONWg'
-yandex_token = 'trnsl.1.1.20180624T145320Z.140efb8b294503df.5e0969d2cf66e2c4ff4a07d46228c75f6e08b43b'
