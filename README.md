@@ -1,6 +1,6 @@
 # Telegram-Bot-Translator
 ![](https://github.com/Victoria1807/VK-Photos-Downloader/blob/master/Victoria1807.jpg)
-## A shortcut URL service
+
 Telegram bot which allow you translate text in 90 languages of world.
 Realized by using Yandex.Translate API and Telegram API.
 
